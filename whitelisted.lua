@@ -24,7 +24,11 @@ replace "userid here" with the accounts userid, and replace "rank here" with eit
 
 local whitelisted = {
     [2450635720] = "admin", -- xurel
-    --[759881255] = "admin", -- xurel
+    [759881255] = "admin", -- xurel
+    [275263932] = "admin" -- xurel
+    [3876458025] = "admin" -- xurel
+    [3957738679] = "admin" -- xurel
+    [1865507] = "admin" -- xurel main account
 }
 
 return whitelisted
