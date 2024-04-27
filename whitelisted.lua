@@ -102,6 +102,7 @@ local whitelisted = {
     [555624588] = "premium", -- bought premium
     [5306349931] = "premium", -- bought premium
     [3773261187] = "premium", -- bought premium
+    [1885092662] = "premium", -- bought premium
 }
 
 return whitelisted
